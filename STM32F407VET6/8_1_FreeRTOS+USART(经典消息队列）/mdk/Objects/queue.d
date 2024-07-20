@@ -1,0 +1,15 @@
+.\objects\queue.o: ..\third_lib\freeRTOS\queue.c
+.\objects\queue.o: D:\Apps\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\queue.o: D:\Apps\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\FreeRTOS.h
+.\objects\queue.o: D:\Apps\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\queue.o: D:\Apps\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\FreeRTOSConfig.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\projdefs.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\portable.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\deprecated_definitions.h
+.\objects\queue.o: ..\third_lib\freeRTOS\portable\RVDS\portmacro.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\mpu_wrappers.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\task.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\list.h
+.\objects\queue.o: ..\third_lib\freeRTOS\include\queue.h

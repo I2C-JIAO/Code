@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "console_usart.h": "c",
+        "oled.h": "c"
+    }
+}

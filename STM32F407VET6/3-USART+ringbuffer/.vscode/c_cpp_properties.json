@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "cStandard": "c99",
+            "compilerPath": "C:/gcc-arm/gcc-arm-none-eabi-10.3-2021.10-win32/bin/arm-none-eabi-gcc",
+            "cppStandard": "c++11",
+            "defines": [
+                "STM32F40_41xxx",
+                "USE_STDPERIPH_DRIVER",
+                "HSE_VALUE=8000000"
+            ],
+            "includePath": [
+                "app/inc",
+                "driver/led",
+                "driver/delay",
+                "driver/usart",
+                "firmware/cmsis/core",
+                "firmware/cmsis/device",
+                "firmware/driver/inc",
+                "third_lib/lettershell",
+                "third_lib/ringbuffer"
+            ],
+            "intelliSenseMode": "windows-gcc-arm",
+            "name": "stm32f407"
+        }
+    ],
+    "version": 4
+}

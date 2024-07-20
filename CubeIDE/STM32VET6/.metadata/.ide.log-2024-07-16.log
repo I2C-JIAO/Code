@@ -1,0 +1,32 @@
+2024-07-18 10:24:49,425 [INFO] Gpio:277 - dependency for GPIO []
+2024-07-18 10:28:37,320 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 327130368 Bytes (814743552)
+2024-07-18 10:28:37,364 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 350037528 Bytes (814743552)
+2024-07-18 10:28:37,456 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 375122616 Bytes (814743552)
+2024-07-18 10:28:37,524 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-07-18 10:28:37,524 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-07-18 10:28:37,524 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-07-18 10:28:37,525 [INFO] CodeGenerator:807 - code generatio: config db path: D:\Apps\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-07-18 10:28:37,616 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\MXTmpFiles\license.tmp_save
+2024-07-18 10:28:37,673 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\MXTmpFiles\license.tmp
+2024-07-18 10:28:37,697 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\MXTmpFiles\gpio.tmp_save
+2024-07-18 10:28:37,762 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\MXTmpFiles\gpio.tmp
+2024-07-18 10:28:37,780 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\Core\Src\stm32f4xx_it.c_save
+2024-07-18 10:28:37,874 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\Core\Src\stm32f4xx_it.c
+2024-07-18 10:28:37,890 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\Core\Inc\stm32f4xx_it.h_save
+2024-07-18 10:28:37,944 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\Core\Inc\stm32f4xx_it.h
+2024-07-18 10:28:37,976 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-18 10:28:38,046 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\Core\Src\stm32f4xx_hal_msp.c
+2024-07-18 10:28:38,055 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\MXTmpFiles\system.tmp_save
+2024-07-18 10:28:38,101 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\MXTmpFiles\system.tmp
+2024-07-18 10:28:38,119 [INFO] CodeEngine:311 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-18 10:28:38,183 [INFO] CodeEngine:335 - Generated code: D:\Code\CubeIDE\STM32VET6\led\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-18 10:28:38,223 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\Core\Inc\main.h_save
+2024-07-18 10:28:38,291 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\Core\Inc\main.h
+2024-07-18 10:28:38,307 [INFO] CodeEngine:255 - oldGeneratedFile, D:\Code\CubeIDE\STM32VET6\led\Core\Src\main.c_save
+2024-07-18 10:28:38,389 [INFO] CodeEngine:279 - Generated code: D:\Code\CubeIDE\STM32VET6\led\Core\Src\main.c
+2024-07-18 10:28:38,708 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 203mS.
+2024-07-18 10:28:38,711 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-07-18 10:28:38,766 [INFO] ConfigFileManager:1531 - The Die is : DIE413
+2024-07-18 10:28:39,647 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 936mS.
+2024-07-18 10:28:39,648 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-07-18 10:28:39,649 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
